@@ -19,14 +19,33 @@ body{
     background-color: var(--cor-primaria);
     color: var(--cor-secundaria);
 }
+
+
 .cabecalho{
     padding: 2% 0% 0% 15%;
 }
+
+.material-symbols-outlined {
+    display: block;
+    color: var(--cor-terciaria);
+}
+
+.material-symbols-outlined:hover {
+    color: var(--cor-hover);
+    cursor: pointer;
+}
+
 .cabecalho__menu{
-    display: flex;
+    display: none;
     gap: 80px;
 }
+
+.cabecalho__menu.visible {
+    display: flex;  
+  }
+
 .cabecalho__menu__link{
+    display: flex;
     font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
     font-weight: 600;
@@ -52,10 +71,12 @@ body{
     gap: 40px;
 }
 
-.apresentacao__conteudo__titulo{
+.apresentacao__conteudo__titulo {
     font-size: 2.25rem;
     font-family: var(--fonte-primaria);
 }
+
+
 .titulo-destaque{
     color: var(--cor-terciaria);
 }
