@@ -115,13 +115,8 @@ body{
 .apresentacao__links__navegacao:hover{
     background-color: var(--cor-hover);
 }
-
 .apresentacao__imagem{
-    img {
-        max-width: 50%;
-        height: auto;
-    }
-
+    width: 50%;
 }
 .rodape{
     color: var(--cor-primaria);
