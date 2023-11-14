@@ -142,4 +142,8 @@ body{
     .apresentacao__conteudo{
         width: auto;
     }
+
+    .apresentacao__imagem {
+        max-width: 200px;
+    }
 }
