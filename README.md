@@ -1,8 +1,5 @@
 # site_pessoal_html_css
-
-Esse site foi baseado no projeto da Alura, do curso de HTML e CSS, onde estudei sobre essas linguagens por cerca de 30h.
-
-Fazendo ele, aprendi não só sobre as linguagens, mas também sobre a utilização do figma, conceitos de design, utilização do Git e sobre como tornar uma tela recursiva.
+Fazendo esse projeto, aprendi não só sobre as linguagens, mas também sobre a utilização do figma, conceitos de design, utilização do Git e sobre como tornar uma tela recursiva.
 
 Como utilizar?:
 
